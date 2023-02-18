@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. at Tsinghua University, China  2020 ~ present
+  * B.S. in Mathematic and Physics + Electrical Engineering and Automation
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.04 ~ present: Research Assistant
+  * Pervasive HCI Lab, Tsinghua University
+  * Advisor: Prof. Yuntao Wang, Prof. Yuanchun Shi
+  * Duties included: 
+    * Developing interactive IoT devices and systems
+    * Exploring interactive technologies with acoustic methods
   
 Skills
 ======
