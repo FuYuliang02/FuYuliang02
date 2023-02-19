@@ -83,7 +83,8 @@ author:
   name             : "Yuliang Fu @THU"
   avatar           : "profile.png"
   bio              : "Underguaduate student and HCI researcher at Tsinghua University"
-  location         : "Location"
+  location         : #"Location"
+  CV               : "/files/CV.pdf"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
