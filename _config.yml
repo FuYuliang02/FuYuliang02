@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "fuyl20@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,8 +97,6 @@ author:
   facebook         :
   foursquare       :
   github           : "FuYuliang02"
-  email-fu_yl@outlook.com : "fu_yl@outlook.com"
-  email-fuyl20@mails.tsinghua.edu.cn : "fuyl20@mails.tsinghua.edu.cn"
   google_plus      :
   keybase          :
   instagram        :
