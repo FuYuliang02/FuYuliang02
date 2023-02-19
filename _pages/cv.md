@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+View pdf version [here](https://fuyuliang02.github.io//files/CV.pdf).
+
 Education
 ======
 * B.S. at Tsinghua University, China  2020 ~ present
