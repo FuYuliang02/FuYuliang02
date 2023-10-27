@@ -8,17 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year undergraduate student at Weiyang College, Tsinghua University. I am double-majoring in <u>Mathematics and Physics</u> and <u>Electrical Engeneering and Automation</u>. I am currently a research assistant at [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, advised by Prof. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/) and Prof. [Yuanchun Shi](http://media.cs.tsinghua.edu.cn/~pervasive/shiyc/).
+I am a senior undergraduate student at Weiyang College, Tsinghua University. I am double-majoring in <u>Mathematics and Physics</u> + <u>Electrical Engineering and Automation</u>. I am currently a research assistant at [Pervasive HCI Lab](https://pi.cs.tsinghua.edu.cn/), Tsinghua University, advised by Dr. [Yuntao Wang](https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/). Previously I used to be a research intern at [SciFi Lab](https://www.scifilab.org/), Cornell University, supervised By Dr. [Cheng Zhang](http://www.czhang.org/).
 
-My research interest lies in the field of technical HCI, IoT, Mobile computing and Ubiquitous Computing. Specifically speaking, I am passionate about developing novel interactive devices and systems to remove berriers in current interaction process.
+My research interest lies in Human-Computer Interaction, Ubiquitous Computing, sensing systems and accessibility. Specifically speaking, I am passionate about developing assistive interaction devices and systems to make current interaction portals available for blind and low-vision people.
 
 Research Projects
 ======
 
-Acoslink
+Acoslink: an acoustic ranging method for home AIoT device
 --------
 
-*An acostic ranging method for home AIoT devices*<br/><img src='/images/500x300.png'>"
+*An acoustic ranging method for home AIoT devices*
 
+- Provide indoor location service utilizing ultrasonic waves
+– Calibration-free method with good precision and range
 
-description
+Explore the possibility of commodity headsets in acoustic sensing
+--------
+
+<br/><img src='/images/expl.png'>"
+
+- Facial expression tracking and movement recognition with FMCW signal
+- Utilize commodity headset with no additional sensor
