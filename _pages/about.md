@@ -21,7 +21,7 @@ Acoslink: an acoustic ranging method for home AIoT device
 *An acoustic ranging method for home AIoT devices*
 
 - Provide indoor location service utilizing ultrasonic waves
-– Calibration-free method with good precision and range
+- Calibration-free method with good precision and range
 
 Explore the possibility of commodity headsets in acoustic sensing
 --------
@@ -29,4 +29,4 @@ Explore the possibility of commodity headsets in acoustic sensing
 <br/><img src='/images/expl.jpg'>
 
 - Facial expression tracking and movement recognition with FMCW signal
-- Utilize commodity headset with no additional sensor
+- Utilize commodity headset with no additional sensors
