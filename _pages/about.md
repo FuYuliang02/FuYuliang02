@@ -26,7 +26,7 @@ Acoslink: an acoustic ranging method for home AIoT device
 Explore the possibility of commodity headsets in acoustic sensing
 --------
 
-<br/><img src='/images/expl.png'>"
+<br/><img src='/images/expl.jpg'>
 
 - Facial expression tracking and movement recognition with FMCW signal
 - Utilize commodity headset with no additional sensor
